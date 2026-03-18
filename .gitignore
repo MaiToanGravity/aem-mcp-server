@@ -6,3 +6,4 @@ IMPLEMENTATION_SUMMARY.md
 README-ENHANCED.md
 node_modules/
 dist/
+.env
